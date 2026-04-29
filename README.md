@@ -3,7 +3,7 @@
 
 
 
-Household Income Prediction: A Machine Learning Analysis
+[Project 1 : Household Income Prediction: A Machine Learning Analysis](https://www.kaggle.com/code/bouthainabouaziz/us-household-income-prediction)
 
 ## Project Overview
 
