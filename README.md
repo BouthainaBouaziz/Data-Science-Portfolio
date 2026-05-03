@@ -3,7 +3,7 @@
 
 
 
-[Project 1 : Household Income Prediction: A Machine Learning Analysis](https://www.kaggle.com/code/bouthainabouaziz/us-household-income-prediction)
+[Project 1 : Household Income Prediction: A Machine Learning Analysis 🏠💰](https://www.kaggle.com/code/bouthainabouaziz/us-household-income-prediction)
 
 **Built a predictive model achieving 99.92% accuracy to estimate mean household income across 32,000+ US locations, demonstrating end-to-end machine learning expertise with real-world business applications.**
 
